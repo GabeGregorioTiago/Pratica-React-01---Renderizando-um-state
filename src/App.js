@@ -43,7 +43,10 @@ class dados extends Component {
                   <li>{this.state.sobre.musica[2]}</li>
                 </ul>
               </nav>
-              <img src={logo} alt="Banana, a minha fruta favorita"></img>
+              <figure>
+                 <img src={logo} alt="Banana, a minha fruta favorita"></img>
+              </figure>
+              
            </div>
 
 
