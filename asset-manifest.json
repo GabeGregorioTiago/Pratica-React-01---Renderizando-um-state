@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Pratica-React-01---Renderizando-um-state/static/css/main.e6c13ad2.css",
+    "main.js": "/Pratica-React-01---Renderizando-um-state/static/js/main.c0689e12.js",
+    "static/js/787.fe9a5cf5.chunk.js": "/Pratica-React-01---Renderizando-um-state/static/js/787.fe9a5cf5.chunk.js",
+    "index.html": "/Pratica-React-01---Renderizando-um-state/index.html",
+    "main.e6c13ad2.css.map": "/Pratica-React-01---Renderizando-um-state/static/css/main.e6c13ad2.css.map",
+    "main.c0689e12.js.map": "/Pratica-React-01---Renderizando-um-state/static/js/main.c0689e12.js.map",
+    "787.fe9a5cf5.chunk.js.map": "/Pratica-React-01---Renderizando-um-state/static/js/787.fe9a5cf5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.c0689e12.js"
+  ]
+}
